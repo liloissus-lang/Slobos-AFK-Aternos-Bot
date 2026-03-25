@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheMidfieldSMP.aternos.me",
-    "port": 46913,
+    "ip": "middleearthsmp.aternos.me:15840",
+    "port": 15840,
     "version": "",
     "try-creative": false
   },
