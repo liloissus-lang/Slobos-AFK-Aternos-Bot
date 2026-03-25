@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheMidfieldSMP.aternos.me",
+    "port": 46913,
     "version": "",
     "try-creative": false
   },
